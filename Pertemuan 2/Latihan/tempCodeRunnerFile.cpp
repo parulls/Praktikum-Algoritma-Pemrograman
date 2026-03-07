@@ -1,0 +1,1 @@
+getchar(); // Membersihkan karakter newline dari buffer
